@@ -1,0 +1,44 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+/tmp/
+
+# Credentials and sensitive data
+config.json
+secrets.json
+.env
+*.key
+*.pem
+
+# Build artifacts
+dist/
+build/
+*.zip
+
+# Dependencies
+node_modules/
+vendor/
+
+# Testing
+coverage/
+.nyc_output/
+*.test.log
+
+# Local development
+local/
+dev/
+sandbox/
