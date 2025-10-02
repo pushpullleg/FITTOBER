@@ -2,7 +2,7 @@ const members = [
   { name: 'Mukesh Ravichandran', cwid: '50380788' },
   { name: 'Trisha Harjono', cwid: '50386141' },
   { name: 'Jaahnavi Garikipati', cwid: '50393610' },
-  { name: 'Tejaswini Damodara Kannan', cwid: '50380778' },
+  { name: 'Tejaswini Damodara Kannan', cwid: '50380778' },//All Members
 ];
 const teamName = "The Excel-erators";
 
