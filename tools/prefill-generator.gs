@@ -38,9 +38,9 @@ var PREFILL_CONFIG = {
   // 4. Click "Get link"
   // 5. Copy the entry.XXXXXX numbers from the URL
   ENTRY_IDS: {
-    CWID: 'entry.123456789',      // Replace with your CWID field entry ID
-    NAME: 'entry.987654321',      // Replace with your Name field entry ID
-    TEAM: 'entry.456789123'       // Replace with your Team field entry ID
+    CWID: 'entry.50380788',      // Replace with your CWID field entry ID
+    NAME: 'entry.Mukesh Ravichandran',      // Replace with your Name field entry ID
+    TEAM: 'entry.The Excel-erators'       // Replace with your Team field entry ID
   },
   
   // Sheet names
